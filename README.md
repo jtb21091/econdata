@@ -6,4 +6,6 @@ Simple scripts to read out US stats and other econ data. See python script noteb
 
 <img width="890" alt="image" src="https://github.com/jtb21091/us-stats/assets/60986161/1e5f8298-0ad5-4eb5-8fb2-578b68b323db">
 
+<img width="883" alt="image" src="https://github.com/jtb21091/us-stats/assets/60986161/d26579c5-6427-43b4-803a-902b92cacf7a">
+
 ![image](https://github.com/jtb21091/us-stats/assets/60986161/8911a690-7460-4b81-a323-83e94beca952)
