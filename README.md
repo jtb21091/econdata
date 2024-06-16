@@ -25,3 +25,14 @@ Growth since NAFTA
 
 ![image](https://github.com/jtb21091/us-stats/assets/60986161/abbd5c8b-0e04-452f-b1f1-cf0d2e0b06cb)
 
+CPI https://www.ers.usda.gov/data-products/food-price-outlook.aspx
+
+![image](https://github.com/jtb21091/econdata/assets/60986161/eb6dc679-f4ec-40d7-9189-7be306967f0e)
+
+![image](https://github.com/jtb21091/econdata/assets/60986161/5fe4abcb-f331-43de-b519-d590b5fc206a)
+
+![image](https://github.com/jtb21091/econdata/assets/60986161/211ae6aa-fbfa-47d0-91ed-31579a9b46ff)
+
+
+
+
