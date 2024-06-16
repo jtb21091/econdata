@@ -41,4 +41,7 @@ YTD
 2022
 ![image](https://github.com/jtb21091/econdata/assets/60986161/d8d5359a-4921-4608-85d1-d64757b1c29f)
 
+aluminum vs plastic
+plastic is significantly cheaper and less GHG emitting, but only recycles so many times compared to infinite recycling of aluminum
+![image](https://github.com/jtb21091/econdata/assets/60986161/ca4ea433-d4a6-4b00-a64d-86dde01ff2b1)
 
