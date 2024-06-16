@@ -15,3 +15,5 @@ Simple scripts to read out US stats and other econ data. See python script noteb
 ![image](https://github.com/jtb21091/us-stats/assets/60986161/317ad8fc-859b-4ab8-a07d-dd6380e49cd6)
 
 ![image](https://github.com/jtb21091/us-stats/assets/60986161/13f6967e-ad70-4caf-8462-c689a74edaa1)
+
+![image](https://github.com/jtb21091/us-stats/assets/60986161/8ee218c4-c7b6-4b9a-b83a-ba15b0a0d430)
