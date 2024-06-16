@@ -19,3 +19,10 @@ Simple scripts to read out US stats and other econ data. See python script noteb
 ![image](https://github.com/jtb21091/us-stats/assets/60986161/8ee218c4-c7b6-4b9a-b83a-ba15b0a0d430)
 
 ![image](https://github.com/jtb21091/us-stats/assets/60986161/951481c0-4272-4baf-9cde-eb14fed44db4)
+
+Growth since NAFTA
+
+![image](https://github.com/jtb21091/us-stats/assets/60986161/d0bd1919-5682-49af-a18d-242b5f2ed24b)
+
+![image](https://github.com/jtb21091/us-stats/assets/60986161/abbd5c8b-0e04-452f-b1f1-cf0d2e0b06cb)
+
