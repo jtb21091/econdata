@@ -45,3 +45,6 @@ aluminum vs plastic
 plastic is significantly cheaper and less GHG emitting, but only recycles so many times compared to infinite recycling of aluminum
 ![image](https://github.com/jtb21091/econdata/assets/60986161/ca4ea433-d4a6-4b00-a64d-86dde01ff2b1)
 
+obesity rates by state https://catalog.data.gov/dataset/national-obesity-by-state-d765a
+
+![image](https://github.com/jtb21091/econdata/assets/60986161/31e87fcf-7c0a-47e4-b476-4514c9e06c00)
