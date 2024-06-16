@@ -32,7 +32,13 @@ CPI https://www.ers.usda.gov/data-products/food-price-outlook.aspx
 ![image](https://github.com/jtb21091/econdata/assets/60986161/5fe4abcb-f331-43de-b519-d590b5fc206a)
 
 ![image](https://github.com/jtb21091/econdata/assets/60986161/211ae6aa-fbfa-47d0-91ed-31579a9b46ff)
-
-
+2023
+![image](https://github.com/jtb21091/econdata/assets/60986161/8056b598-1b51-478a-a2e5-ff91afe96f5b)
+20 yr historical
+![image](https://github.com/jtb21091/econdata/assets/60986161/7ac725cc-e717-4852-b345-d64904254a1b)
+YTD
+![image](https://github.com/jtb21091/econdata/assets/60986161/4cac6dda-dfd4-4e94-bfb4-c005404a04aa)
+2022
+![image](https://github.com/jtb21091/econdata/assets/60986161/d8d5359a-4921-4608-85d1-d64757b1c29f)
 
 
