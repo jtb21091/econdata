@@ -48,3 +48,14 @@ plastic is significantly cheaper and less GHG emitting, but only recycles so man
 obesity rates by state https://catalog.data.gov/dataset/national-obesity-by-state-d765a
 
 ![image](https://github.com/jtb21091/econdata/assets/60986161/31e87fcf-7c0a-47e4-b476-4514c9e06c00)
+
+SCM GHG emissions
+
+![image](https://github.com/jtb21091/econdata/assets/60986161/3dfb880a-f0fb-4a79-abbc-a22c89a44a37)
+
+![image](https://github.com/jtb21091/econdata/assets/60986161/1b2ed114-bc6e-46d5-a494-146d51911f79)
+
+![image](https://github.com/jtb21091/econdata/assets/60986161/360fc149-c2b8-4d8e-b644-8181649c7e18)
+
+
+
