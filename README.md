@@ -57,5 +57,6 @@ SCM GHG emissions
 
 ![image](https://github.com/jtb21091/econdata/assets/60986161/360fc149-c2b8-4d8e-b644-8181649c7e18)
 
+![image](https://github.com/jtb21091/econdata/assets/60986161/bb53a6ca-327c-4ff8-ad43-7ebdda8129bf)
 
 
