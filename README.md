@@ -63,3 +63,11 @@ energy
 
 ![image](https://github.com/jtb21091/econdata/assets/60986161/5ec0ea57-510b-4aab-a485-0b4b38219f75)
 
+random railroad data
+
+https://catalog.data.gov/organization/rrb-gov
+
+railroad employees by state (2020 report)
+![image](https://github.com/jtb21091/econdata/assets/60986161/2d997bf9-810e-4338-8db9-425fdd43b2cf)
+
+![image](https://github.com/jtb21091/econdata/assets/60986161/add8365c-a795-4ee8-97f8-b10e414b0206)
