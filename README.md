@@ -82,3 +82,7 @@ fdic
 
 Africa
 ![image](https://github.com/jtb21091/econdata/assets/60986161/1cd69056-28fc-4c82-bd94-12fa37b3dce2)
+
+SCM Emission data
+![image](https://github.com/jtb21091/econdata/assets/60986161/4993193e-476f-465c-8275-02c84ce80edc)
+
