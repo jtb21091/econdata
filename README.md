@@ -73,6 +73,8 @@ railroad employees by state (2020 report)
 ![image](https://github.com/jtb21091/econdata/assets/60986161/add8365c-a795-4ee8-97f8-b10e414b0206)
 
 Approved Debt Relief by State https://catalog.data.gov/
+![image](https://github.com/jtb21091/econdata/assets/60986161/be976a6e-51cd-4010-985a-3e4fb8314b1b)
+
 
 fdic
 
