@@ -80,3 +80,5 @@ fdic
 
 ![image](https://github.com/jtb21091/econdata/assets/60986161/91e1158d-d3de-4e46-a737-058f5d9fc519)
 
+Africa
+![image](https://github.com/jtb21091/econdata/assets/60986161/1cd69056-28fc-4c82-bd94-12fa37b3dce2)
