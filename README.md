@@ -96,3 +96,6 @@ CDC stats https://wonder.cdc.gov/cancer.html (recent year data is skewed)
 ![Picture1](https://github.com/jtb21091/econdata/assets/60986161/f5ecf572-254a-4a3a-8b4a-0c2048b2c066)
 ![Picture2](https://github.com/jtb21091/econdata/assets/60986161/b274a396-d80f-431b-90a5-bfa7c52e17ea)
 
+Diabetes
+<img width="857" alt="image" src="https://github.com/jtb21091/econdata/assets/60986161/0f5878b8-646c-4171-8a5a-de292fa06415">
+
