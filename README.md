@@ -100,3 +100,6 @@ Diabetes https://catalog.data.gov/dataset/u-s-chronic-disease-indicators
 
 <img width="857" alt="image" src="https://github.com/jtb21091/econdata/assets/60986161/0f5878b8-646c-4171-8a5a-de292fa06415">
 
+TX 2014 spending
+![image](https://github.com/jtb21091/econdata/assets/60986161/5249bd29-ce44-4158-8c00-78bfa56a688d)
+
