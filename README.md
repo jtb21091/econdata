@@ -104,5 +104,5 @@ TX 2014 spending
 ![image](https://github.com/jtb21091/econdata/assets/60986161/5249bd29-ce44-4158-8c00-78bfa56a688d)
 
 Lottery, Powerball, as of 7/4/2024
-![image](https://github.com/jtb21091/econdata/assets/60986161/ce535050-dd58-43f0-b640-6687a4da5f84)
+![image](https://github.com/jtb21091/econdata/assets/60986161/f4bc5254-a953-4b8b-8676-bda6766b027c)
 
