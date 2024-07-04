@@ -103,3 +103,5 @@ Diabetes https://catalog.data.gov/dataset/u-s-chronic-disease-indicators
 TX 2014 spending
 ![image](https://github.com/jtb21091/econdata/assets/60986161/5249bd29-ce44-4158-8c00-78bfa56a688d)
 
+Lottery, Powerball, as of 7/4/2024
+![image](https://github.com/jtb21091/econdata/assets/60986161/840e1a3c-a225-43eb-b6fc-188c3643e122)
