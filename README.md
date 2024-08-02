@@ -107,7 +107,7 @@ Lottery, Powerball, as of 7/4/2024
 
 NAFTA
 
-![image](https://github.com/user-attachments/assets/eb1401db-b5d2-4ec0-8115-35012d4e4da3)
+![image](https://github.com/user-attachments/assets/84489f0f-be0f-4f25-b49d-67fdf210c14c)
 
 ![image](https://github.com/user-attachments/assets/b9a95bd9-ee84-44c7-90a6-440fbfba2a7f)
 
